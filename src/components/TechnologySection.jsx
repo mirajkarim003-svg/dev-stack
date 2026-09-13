@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import TechnologyCard from "./TechnologyCard";
-import YourStack from "./YourStack";
+import YourStack from "./yourstack";
 import { toast } from "react-toastify";
 
 function TechnologySection() {
