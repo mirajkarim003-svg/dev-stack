@@ -1,8 +1,8 @@
-### Dev Stack Builder
+# Dev Stack Builder
 
 Dev Stack Builder is a simple React website where users can explore different technologies and build their own tech stack.
 
-# Technologies Used:
+## Technologies Used:
 -React.js
 -JavaScript (ES6+)
 -Tailwind CSS
@@ -10,12 +10,12 @@ Dev Stack Builder is a simple React website where users can explore different te
 -JSON
 -Vite
 
-# Features:
+## Features:
 -Users can explore different technologies with their category, rating, difficulty, and description.
 -Users can add technologies to their own stack and remove them when needed.
 -The website is responsive and shows toast messages when users add or remove technologies.
 
-# React Questions & Answers
+## React Questions & Answers
 1. What is JSX, and why is it used in React?
 
 JSX lets us write HTML-like code inside JavaScript. It makes React code easier to write and understand.
