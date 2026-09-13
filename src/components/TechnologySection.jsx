@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import TechnologyCard from "./TechnologyCard";
+import TechnologyCard from "./technologycard";
 import YourStack from "./yourstack";
 import { toast } from "react-toastify";
 
