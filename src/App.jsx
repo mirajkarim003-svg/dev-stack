@@ -1,6 +1,6 @@
 import Navbar from "./components/navbar";
 import Hero from "./components/hero";
-import TechnologySection from "./components/technologysection";
+import TechnologySection from "./components/TechnologySection";
 import Footer from "./components/footer";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
